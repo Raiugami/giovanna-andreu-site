@@ -1,0 +1,12 @@
+# Imagens de origem, prompts e testes (não vão para o repositório público)
+*.prompt.txt
+*.png
+img/giovanna-perfil-*
+img/giovanna-retrato-*
+img/giovanna-capa-olhos-*
+img/giovanna-capa-escolhida-1280.webp
+img/giovanna-logo-sem-fundo.webp
+Or*amento*.pdf
+CNAME
+.CNAME-aguardando-dominio
+.git-incompleto-apagar/

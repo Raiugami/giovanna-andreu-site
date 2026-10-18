@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raiugami.github.io/giovanna-andreu-site/sitemap.xml
